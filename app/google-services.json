@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "266473977696",
+    "firebase_url": "https://delen-46200.firebaseio.com",
+    "project_id": "delen-46200",
+    "storage_bucket": "delen-46200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266473977696:android:88bc95faa4e26614",
+        "android_client_info": {
+          "package_name": "com.example.android.delen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266473977696-fnu4eeo6tt2lk9e98g20h1rr1m0vrar8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.delen",
+            "certificate_hash": "81fab884e354ad616daabef336d2a83607c6f7ea"
+          }
+        },
+        {
+          "client_id": "266473977696-v0or9pe41jhhvlal2iu9nioigfi0vil4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhnLuZSiRnayYQrvR8wThoRbXJRsXS8GA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266473977696-v0or9pe41jhhvlal2iu9nioigfi0vil4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
